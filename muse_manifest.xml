@@ -1,0 +1,262 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422218396286">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="517655383" ref="tablet>get-involved:tablet>index:tablet>events:tablet>about-us:tablet>contact"/>
+      <file name="get-involved.css" crc="3761634120" ref="tablet>get-involved"/>
+      <file name="iefonts_get-involved.css" crc="4279133786" ref="tablet>get-involved"/>
+      <file name="index.css" crc="4150632404" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4247845741" ref="tablet>index"/>
+      <file name="events.css" crc="3761634120" ref="tablet>events"/>
+      <file name="iefonts_events.css" crc="4279133786" ref="tablet>events"/>
+      <file name="about-us.css" crc="4215663791" ref="tablet>about-us"/>
+      <file name="iefonts_about-us.css" crc="55017756" ref="tablet>about-us"/>
+      <file name="contact.css" crc="3761634120" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="4279133786" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="4146930016" mt="1422218390102" redirect="true"/>
+    <file name="about-us.html" crc="4182931702" mt="1422218390659" redirect="true"/>
+    <file name="get-involved.html" crc="3967530855" mt="1422218390944" redirect="true"/>
+    <file name="events.html" crc="4053575866" mt="1422216956729" redirect="true"/>
+    <file name="contact.html" crc="4231238872" mt="1422218391232" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="413950828" ref="phone>events:phone>about-us:phone>contact:phone>get-involved:phone>index"/>
+      <file name="events.css" crc="191346799" ref="phone>events"/>
+      <file name="iefonts_events.css" crc="3779505436" ref="phone>events"/>
+      <file name="about-us.css" crc="4059760710" ref="phone>about-us"/>
+      <file name="iefonts_about-us.css" crc="263739380" ref="phone>about-us"/>
+      <file name="contact.css" crc="191346799" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="3779505436" ref="phone>contact"/>
+      <file name="get-involved.css" crc="191346799" ref="phone>get-involved"/>
+      <file name="iefonts_get-involved.css" crc="3779505436" ref="phone>get-involved"/>
+      <file name="index.css" crc="126220281" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="388384123" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="253224473" mt="1422218387843" redirect="true"/>
+    <file name="about-us.html" crc="4200147696" mt="1422218388609" redirect="true"/>
+    <file name="get-involved.html" crc="376563813" mt="1422218388860" redirect="true"/>
+    <file name="events.html" crc="4192547522" mt="1422216954796" redirect="true"/>
+    <file name="contact.html" crc="23570285" mt="1422218389109" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="524702417"/>
+    <file name="index.css" crc="4178302091" ref="index"/>
+    <file name="master_a-master.css" crc="414269175" ref="index:contact:about-us:dev-team:more-info"/>
+    <file name="iefonts_index.css" crc="177351119" ref="index"/>
+    <file name="contact.css" crc="4200151829" ref="contact"/>
+    <file name="iefonts_contact.css" crc="264562103" ref="contact"/>
+    <file name="about-us.css" crc="153391204" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3877150370" ref="about-us"/>
+    <file name="dev-team.css" crc="516409646" ref="dev-team"/>
+    <file name="iefonts_dev-team.css" crc="4238422810" ref="dev-team"/>
+    <file name="more-info.css" crc="513056758" ref="more-info"/>
+    <file name="iefonts_more-info.css" crc="4238422810" ref="more-info"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:about-us:contact:dev-team:more-info"/>
+    <file name="museutils.js" crc="3777594392" ref="index:phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:about-us:contact:dev-team:more-info"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:about-us:contact:dev-team:more-info"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about-us:tablet>index:tablet>about-us:index:about-us:contact"/>
+    <file name="webpro.js" crc="474087315" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="phone>index:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="phone>index:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="touchswipe.js" crc="100683906" ref="phone>index:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="phone>index:phone>about-us:tablet>index:tablet>about-us:index:about-us:contact:dev-team:more-info"/>
+    <file name="form_check.php" crc="306825315" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="form_throttle.php" crc="4293816517" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="form_process.php" crc="109188895" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="form-u848.php" crc="4225538668" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact:tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact:index:about-us:contact:dev-team:more-info"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="phone>about-us:tablet>about-us:index:about-us:contact:dev-team:more-info"/>
+    <file name="form-u1597.php" crc="400990657" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="museredirect.js" crc="17485671" ref="index:about-us:contact"/>
+    <file name="form-u207.php" crc="4271828112" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="form-u1166.php" crc="89377354" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="kids_group1.jpg" crc="4026459031" ref="phone>index"/>
+    <file name="mentor1.jpg" crc="481908741" ref="phone>index:tablet>index"/>
+    <file name="kids_group2.jpg" crc="4184274388" ref="phone>index:tablet>index"/>
+    <file name="left-arrow-u1207.png" crc="3937582518" ref="phone>index"/>
+    <file name="left-arrow-u1207-r.png" crc="4116670122" ref="phone>index"/>
+    <file name="left-arrow-u1207_2x.png" crc="4076522910" ref="phone>index"/>
+    <file name="left-arrow-u1207-r_2x.png" crc="137585191" ref="phone>index"/>
+    <file name="right-arrow-u1206.png" crc="4001512447" ref="phone>index"/>
+    <file name="right-arrow-u1206-r.png" crc="4289703112" ref="phone>index"/>
+    <file name="right-arrow-u1206_2x.png" crc="4200886453" ref="phone>index"/>
+    <file name="right-arrow-u1206-r_2x.png" crc="262743908" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="orange-header381x91.png" crc="14180830" ref="phone>index"/>
+    <file name="orange-header381x91_2x.png" crc="4159932302" ref="phone>index"/>
+    <file name="logo.png" crc="156742180" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="logo_2x.png" crc="123939572" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="heart-u1260.png" crc="4230636900" ref="phone>index"/>
+    <file name="heart-u1260_2x.png" crc="220835201" ref="phone>index"/>
+    <file name="calendar-u1250.png" crc="4085770954" ref="phone>index"/>
+    <file name="calendar-u1250_2x.png" crc="266593168" ref="phone>index"/>
+    <file name="volunteer-u1256.png" crc="4257720279" ref="phone>index"/>
+    <file name="volunteer-u1256_2x.png" crc="287679215" ref="phone>index"/>
+    <file name="mentor2-u1272-fr.jpg" crc="378838982" ref="phone>index:tablet>index:index"/>
+    <file name="mentor2-u1272-fr_2x.jpg" crc="258261321" ref="phone>index:tablet>index:index"/>
+    <file name="mentor3-u1273-fr.jpg" crc="3821623556" ref="phone>index:tablet>index:index"/>
+    <file name="mentor3-u1273-fr_2x.jpg" crc="3882663997" ref="phone>index:tablet>index:index"/>
+    <file name="teens_group1-u1282-fr.jpg" crc="3894630768" ref="phone>index:tablet>index:index"/>
+    <file name="teens_group1-u1282-fr_2x.jpg" crc="3759198837" ref="phone>index:tablet>index:index"/>
+    <file name="logo87x20.png" crc="11353299" ref="phone>index"/>
+    <file name="logo87x20_2x.png" crc="4260358727" ref="phone>index"/>
+    <file name="vimeo_social-u1843.png" crc="3993382749" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="vimeo_social-u1843_2x.png" crc="4174984892" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17.png" crc="4124743122" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17-r.png" crc="72279006" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17-m.png" crc="72279006" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17-fs.png" crc="4124743122" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17_2x.png" crc="294026963" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17-r_2x.png" crc="4188804566" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17-m_2x.png" crc="4188804566" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="u860-17-fs_2x.png" crc="294026963" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="facebook-social-u1831.png" crc="3942903783" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="facebook-social-u1831_2x.png" crc="4004616389" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="google_social-u1833.png" crc="76460249" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="google_social-u1833_2x.png" crc="4229364481" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="instagram_social-u1835.png" crc="4201140996" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="instagram_social-u1835_2x.png" crc="277159207" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="linkedin_social-u1837.png" crc="3808773490" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="linkedin_social-u1837_2x.png" crc="179061610" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="pinterest_social-u1839.png" crc="409197990" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="pinterest_social-u1839_2x.png" crc="349386994" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="twitter_social-u1841.png" crc="3922365232" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="twitter_social-u1841_2x.png" crc="4092925034" ref="phone>index:phone>about-us:phone>get-involved:phone>events:phone>contact"/>
+    <file name="daycare.jpg" crc="3986978752" ref="phone>about-us:tablet>about-us"/>
+    <file name="purple-hero383x82.png" crc="4221181199" ref="phone>about-us"/>
+    <file name="purple-hero383x82_2x.png" crc="86825143" ref="phone>about-us"/>
+    <file name="building1-u1325-fr.jpg" crc="418636628" ref="phone>about-us:tablet>about-us"/>
+    <file name="building1-u1325-fr_2x.jpg" crc="4238435809" ref="phone>about-us:tablet>about-us"/>
+    <file name="mentor2-u1326-fr.jpg" crc="4152414956" ref="phone>about-us:tablet>about-us"/>
+    <file name="mentor2-u1326-fr_2x.jpg" crc="4293793925" ref="phone>about-us:tablet>about-us"/>
+    <file name="oragne-button.png" crc="37528940" ref="phone>about-us:tablet>index:tablet>about-us:index:about-us"/>
+    <file name="oragne-button_2x.png" crc="146936198" ref="phone>about-us:tablet>index:tablet>about-us:index:about-us"/>
+    <file name="purple-hero.png" crc="3885531368" ref="tablet>index"/>
+    <file name="purple-hero_2x.png" crc="509634406" ref="tablet>index"/>
+    <file name="left-arrow-u1728.png" crc="3798591549" ref="tablet>index"/>
+    <file name="left-arrow-u1728-r.png" crc="512068623" ref="tablet>index"/>
+    <file name="left-arrow-u1728_2x.png" crc="4013889114" ref="tablet>index"/>
+    <file name="left-arrow-u1728-r_2x.png" crc="4204260402" ref="tablet>index"/>
+    <file name="right-arrow-u1718.png" crc="3805298390" ref="tablet>index"/>
+    <file name="right-arrow-u1718-r.png" crc="177232977" ref="tablet>index"/>
+    <file name="right-arrow-u1718_2x.png" crc="446465131" ref="tablet>index"/>
+    <file name="right-arrow-u1718-r_2x.png" crc="3893809410" ref="tablet>index"/>
+    <file name="orange-header.png" crc="3809409883" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="orange-header_2x.png" crc="3977089519" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="logo136x31.png" crc="364354415" ref="tablet>index"/>
+    <file name="logo136x31_2x.png" crc="302720627" ref="tablet>index"/>
+    <file name="heart-u1753.png" crc="167295407" ref="tablet>index"/>
+    <file name="heart-u1753_2x.png" crc="4288118284" ref="tablet>index"/>
+    <file name="calendar-u1744.png" crc="4249126721" ref="tablet>index"/>
+    <file name="calendar-u1744_2x.png" crc="3993036710" ref="tablet>index"/>
+    <file name="volunteer-u1749.png" crc="208154980" ref="tablet>index"/>
+    <file name="volunteer-u1749_2x.png" crc="3965509693" ref="tablet>index"/>
+    <file name="logo137x32.png" crc="364354415" ref="tablet>index"/>
+    <file name="logo137x32_2x.png" crc="3969261878" ref="tablet>index"/>
+    <file name="instagram_social-u1617.png" crc="4201140996" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="instagram_social-u1617_2x.png" crc="277159207" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="facebook-social-u1613.png" crc="3942903783" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="facebook-social-u1613_2x.png" crc="4004616389" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="linkedin_social-u1619.png" crc="3808773490" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="linkedin_social-u1619_2x.png" crc="179061610" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="pinterest_social-u1621.png" crc="409197990" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="pinterest_social-u1621_2x.png" crc="349386994" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17.png" crc="3794993683" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17-r.png" crc="3876652852" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17-m.png" crc="3876652852" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17-fs.png" crc="3794993683" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17_2x.png" crc="3938718395" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17-r_2x.png" crc="4116753041" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17-m_2x.png" crc="4116753041" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="u1602-17-fs_2x.png" crc="3938718395" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="google_social-u1615.png" crc="76460249" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="google_social-u1615_2x.png" crc="4229364481" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="twitter_social-u1623.png" crc="3922365232" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="twitter_social-u1623_2x.png" crc="4092925034" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="vimeo_social-u1625.png" crc="3993382749" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="vimeo_social-u1625_2x.png" crc="4174984892" ref="tablet>index:tablet>about-us:tablet>get-involved:tablet>events:tablet>contact"/>
+    <file name="purple-hero569x121.png" crc="3794934639" ref="tablet>about-us"/>
+    <file name="purple-hero569x121_2x.png" crc="509634406" ref="tablet>about-us"/>
+    <file name="left-arrow-u266.png" crc="4088011049" ref="index"/>
+    <file name="left-arrow-u266-r.png" crc="512068623" ref="index"/>
+    <file name="left-arrow-u266_2x.png" crc="87057823" ref="index"/>
+    <file name="left-arrow-u266-r_2x.png" crc="4204260402" ref="index"/>
+    <file name="right-arrow-u279.png" crc="432477311" ref="index"/>
+    <file name="right-arrow-u279-r.png" crc="177232977" ref="index"/>
+    <file name="right-arrow-u279_2x.png" crc="75450342" ref="index"/>
+    <file name="right-arrow-u279-r_2x.png" crc="3893809410" ref="index"/>
+    <file name="green barrier.png" crc="4203516510" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="green barrier_2x.png" crc="436301869" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="heart-u1019.png" crc="4230636900" ref="index"/>
+    <file name="heart-u1019_2x.png" crc="178177263" ref="index"/>
+    <file name="calendar-u1013.png" crc="4085770954" ref="index"/>
+    <file name="calendar-u1013_2x.png" crc="266593168" ref="index"/>
+    <file name="volunteer-u1024.png" crc="4257720279" ref="index"/>
+    <file name="volunteer-u1024_2x.png" crc="287679215" ref="index"/>
+    <file name="u502.png" crc="4092253975" ref="index"/>
+    <file name="u502-r.png" crc="3897457456" ref="index"/>
+    <file name="u502_2x.png" crc="3893285055" ref="index"/>
+    <file name="u502-r_2x.png" crc="103595243" ref="index"/>
+    <file name="u223-17.png" crc="23467041" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17-r.png" crc="3876652852" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17-m.png" crc="3876652852" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17-fs.png" crc="23467041" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17_2x.png" crc="55295301" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17-r_2x.png" crc="4116753041" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17-m_2x.png" crc="4116753041" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="u223-17-fs_2x.png" crc="55295301" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="coollogo_com-24987555.png" crc="3904282611" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="coollogo_com-24987555_2x.png" crc="301492591" ref="index:about-us:contact:dev-team:more-info"/>
+    <file name="building1.jpg" crc="168104346" ref="contact"/>
+    <file name="u1172-17.png" crc="407383464" ref="contact"/>
+    <file name="u1172-17-r.png" crc="60653795" ref="contact"/>
+    <file name="u1172-17-m.png" crc="3848738174" ref="contact"/>
+    <file name="u1172-17-fs.png" crc="197308144" ref="contact"/>
+    <file name="u1172-17_2x.png" crc="445867860" ref="contact"/>
+    <file name="u1172-17-r_2x.png" crc="3964573078" ref="contact"/>
+    <file name="u1172-17-m_2x.png" crc="4044297212" ref="contact"/>
+    <file name="u1172-17-fs_2x.png" crc="4148910768" ref="contact"/>
+    <file name="other-pictures-from-africa-2013-012.jpg" crc="4136044629" ref="index"/>
+    <file name="other-pictures-from-africa-2013-016.jpg" crc="98064918" ref="index:more-info"/>
+    <file name="kengami-map.jpg" crc="3836710203" ref="index"/>
+    <file name="dscn1759.jpg" crc="3920189585" ref="index"/>
+    <file name="other-pictures-from-africa-2013-059.jpg" crc="252734518" ref="index"/>
+    <file name="other-pictures-from-africa-2013-004.jpg" crc="4267646473" ref="index"/>
+    <file name="other-pictures-from-africa-2013-050.jpg" crc="363175978" ref="index:about-us"/>
+    <file name="other-pictures-from-africa-2013-046.jpg" crc="3985630758" ref="index"/>
+    <file name="other-pictures-from-africa-2013-047.jpg" crc="286875897" ref="index"/>
+    <file name="other-pictures-from-africa-2013-021.jpg" crc="332728195" ref="index"/>
+    <file name="purple-hero-u335-6-fr.png" crc="181464459" ref="index"/>
+    <file name="purple-hero-u335-6-fr_2x.png" crc="4016258417" ref="index"/>
+    <file name="img_2288.jpg" crc="3797967194" ref="dev-team"/>
+    <file name="img_2271-u2140-fr.jpg" crc="222050557" ref="dev-team"/>
+    <file name="img_2271-u2140-fr_2x.jpg" crc="3866683149" ref="dev-team"/>
+    <file name="img_2277-u2140-r-fr.jpg" crc="300756862" ref="dev-team"/>
+    <file name="img_2277-u2140-r-fr_2x.jpg" crc="3947511356" ref="dev-team"/>
+    <file name="img_2278-u2141-fr.jpg" crc="3944814179" ref="dev-team"/>
+    <file name="img_2278-u2141-fr_2x.jpg" crc="265772555" ref="dev-team"/>
+    <file name="img_2280-u2141-r-fr.jpg" crc="4017607875" ref="dev-team"/>
+    <file name="img_2280-u2141-r-fr_2x.jpg" crc="50388029" ref="dev-team"/>
+    <file name="img_2282-u2142-fr.jpg" crc="362242635" ref="dev-team"/>
+    <file name="img_2282-u2142-fr_2x.jpg" crc="334656359" ref="dev-team"/>
+    <file name="img_2286-u2142-r-fr.jpg" crc="3832567120" ref="dev-team"/>
+    <file name="img_2286-u2142-r-fr_2x.jpg" crc="3969091789" ref="dev-team"/>
+    <file name="other-pictures-from-africa-2013-021-u1051-fr.jpg" crc="4085448220" ref="about-us"/>
+    <file name="other-pictures-from-africa-2013-021-u1051-fr_2x.jpg" crc="530981058" ref="about-us"/>
+    <file name="other-pictures-from-africa-2013-046-u1052-fr.jpg" crc="3943851686" ref="about-us"/>
+    <file name="other-pictures-from-africa-2013-046-u1052-fr_2x.jpg" crc="186091674" ref="about-us"/>
+  </folder>
+  <file name="index.html" crc="4254080308" mt="1422218392520" redirect="true"/>
+  <file name="about-us.html" crc="280147486" mt="1422218393353" redirect="true"/>
+  <file name="contact.html" crc="188155635" mt="1422218395846" redirect="true"/>
+  <file name="dev-team.html" crc="319476298" mt="1422218394621" redirect="true"/>
+  <file name="more-info.html" crc="45272052" mt="1422218395126" redirect="true"/>
+</manifest>

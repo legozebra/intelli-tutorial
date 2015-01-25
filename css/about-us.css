@@ -1,0 +1,685 @@
+.version.about_us /* version checker */
+{
+	color: #000009;
+	background-color: #249064;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1044px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -79px;
+}
+
+#pu2192-3
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u2192-3
+{
+	z-index: 4;
+	width: 1160px;
+	min-height: 399px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	background: #84F3FF url("../images/other-pictures-from-africa-2013-050.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1079
+{
+	z-index: 23;
+	width: 569px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 279px;
+	left: 100px;
+}
+
+#u1079_img
+{
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+}
+
+#u489-4
+{
+	z-index: 25;
+	width: 307px;
+	min-height: 86px;
+	background-color: transparent;
+	line-height: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 325px;
+	left: 145px;
+}
+
+#u1890
+{
+	z-index: 29;
+	width: 944px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 108px;
+}
+
+#u1095
+{
+	z-index: 104;
+	width: 52px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 947px;
+}
+
+#u1092
+{
+	z-index: 105;
+	width: 52px;
+	height: 7px;
+}
+
+#u1093
+{
+	z-index: 106;
+	width: 52px;
+	height: 7px;
+	margin-top: 7px;
+}
+
+#u1094
+{
+	z-index: 107;
+	width: 52px;
+	height: 7px;
+	margin-top: 7px;
+}
+
+#pamphletu1106
+{
+	z-index: 108;
+	width: 0.01px;
+	height: 52px;
+	margin-right: -10000px;
+	margin-top: 36px;
+	left: 930px;
+}
+
+#u1113popup
+{
+	z-index: 109;
+}
+
+#u1113
+{
+	width: 257px;
+	top: 52px;
+	left: -119px;
+}
+
+#u1116
+{
+	z-index: 110;
+	width: 224px;
+	height: 234px;
+	margin-right: -10000px;
+	padding: 30px 16px 29px 17px;
+}
+
+#buttonu1121
+{
+	z-index: 111;
+	width: 224px;
+	padding-bottom: 16px;
+	left: -1px;
+}
+
+#buttonu1121:hover
+{
+	margin: 0px;
+}
+
+#u1122-4
+{
+	z-index: 112;
+	width: 148px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 38px;
+}
+
+#buttonu1121:hover #u1122-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu1123
+{
+	z-index: 116;
+	width: 224px;
+	padding-bottom: 16px;
+	left: -1px;
+	margin-top: 7px;
+}
+
+#buttonu1123:hover
+{
+	margin: 7px 0px 0px;
+}
+
+#u1124-4
+{
+	z-index: 117;
+	width: 148px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 38px;
+}
+
+#buttonu1121.ButtonSelected #u1122-4,#buttonu1123:hover #u1124-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu1125
+{
+	z-index: 121;
+	width: 224px;
+	padding-bottom: 16px;
+	left: -1px;
+	margin-top: 7px;
+}
+
+#buttonu1123.ButtonSelected,#buttonu1125:hover
+{
+	margin: 7px 0px 0px;
+}
+
+#u1126-4
+{
+	z-index: 122;
+	width: 148px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 38px;
+}
+
+#buttonu1123.ButtonSelected #u1124-4,#buttonu1125:hover #u1126-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu1127
+{
+	z-index: 126;
+	width: 224px;
+	padding-bottom: 16px;
+	left: -1px;
+	margin-top: 7px;
+}
+
+#buttonu1125.ButtonSelected,#buttonu1127:hover
+{
+	margin: 7px 0px 0px;
+}
+
+#buttonu1127.ButtonSelected
+{
+	margin: 7px 0px 0px;
+}
+
+#u1128-4
+{
+	z-index: 127;
+	width: 148px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 38px;
+}
+
+#buttonu1125.ButtonSelected #u1126-4,#buttonu1127:hover #u1128-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu1127.ButtonSelected #u1128-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u1109
+{
+	z-index: 131;
+	width: 85px;
+	margin-right: -10000px;
+}
+
+#u1112
+{
+	width: 85px;
+	height: 52px;
+}
+
+.ie #u1112
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#buttonu1121.ButtonSelected,#u1112.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+.ie #u1112.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1051
+{
+	z-index: 2;
+	width: 210px;
+	height: 210px;
+	border-color: #000000;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: fixed;
+	top: 453px;
+	left: 679px;
+	background: #DE8921 url("../images/other-pictures-from-africa-2013-021-u1051-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u1051
+{
+	background-image: url("../images/other-pictures-from-africa-2013-021-u1051-fr_2x.jpg");
+}
+
+#pu490-10
+{
+	width: 0.01px;
+	margin-left: 32px;
+	margin-top: 49px;
+}
+
+#u490-10
+{
+	z-index: 7;
+	width: 527px;
+	min-height: 408px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu492
+{
+	z-index: 18;
+	width: 371px;
+	border-color: #787878;
+	padding-bottom: 29px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 477px;
+	left: 263px;
+	background: transparent url("../images/oragne-button.png") no-repeat center center;
+}
+
+#buttonu492:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin: 477px -10000px 0px 0px;
+}
+
+.hidpi #buttonu492
+{
+	background-image: url("../images/oragne-button_2x.png");
+	background-size: 300.5px 81.5px;
+}
+
+#u493-4
+{
+	z-index: 19;
+	width: 204px;
+	min-height: 36px;
+	background-color: transparent;
+	font-size: 22px;
+	color: #FFFFFF;
+	line-height: 26px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 84px;
+}
+
+#buttonu492:hover #u493-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 36px;
+	margin: 42px -10000px 0px 0px;
+}
+
+#buttonu492.ButtonSelected #u493-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 36px;
+	margin: 42px -10000px 0px 0px;
+}
+
+#buttonu492:hover #u493-4 p,#buttonu492:hover #u493-4 h2
+{
+	color: #9039C9;
+	visibility: inherit;
+}
+
+#buttonu492.ButtonSelected #u493-4 p,#buttonu492.ButtonSelected #u493-4 h2
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.js #buttonu492.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u1052
+{
+	z-index: 3;
+	width: 210px;
+	height: 210px;
+	border-color: #000000;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	position: fixed;
+	top: 695px;
+	left: 679px;
+	background: #DE8921 url("../images/other-pictures-from-africa-2013-046-u1052-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #u1052
+{
+	background-image: url("../images/other-pictures-from-africa-2013-046-u1052-fr_2x.jpg");
+}
+
+#u491
+{
+	z-index: 17;
+	height: 59px;
+	border-color: #000000;
+	background-color: #8700BF;
+}
+
+#u491-bw
+{
+	z-index: 17;
+	margin-top: -6px;
+	margin-bottom: -6px;
+	height: 59px;
+}
+
+#pu200
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: -3px;
+}
+
+#u200
+{
+	z-index: 31;
+	padding-bottom: 131px;
+}
+
+#u200_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u202-7
+{
+	z-index: 32;
+	width: 294px;
+	min-height: 150px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 100px;
+}
+
+#u234-18
+{
+	z-index: 86;
+	width: 285px;
+	min-height: 236px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 437px;
+}
+
+#u204-7
+{
+	z-index: 39;
+	width: 307px;
+	min-height: 87px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 753px;
+}
+
+#u200-bw
+{
+	z-index: 31;
+	height: 289px;
+}
+
+#widgetu207
+{
+	z-index: 46;
+	width: 0.01px;
+	height: 145px;
+	margin-right: -10000px;
+	margin-top: 166px;
+	left: 753px;
+}
+
+#widgetu219
+{
+	z-index: 47;
+	width: 308px;
+	height: 32px;
+	margin-right: -10000px;
+	margin-top: -1px;
+}
+
+#widgetu219.fld-err-st
+{
+	margin: -1px -10000px 0px 0px;
+}
+
+#u221-4
+{
+	z-index: 48;
+	width: 273px;
+	min-height: 30px;
+	margin-right: -10000px;
+	padding: 0px 15px 0px 18px;
+}
+
+#widgetu215
+{
+	z-index: 52;
+	width: 308px;
+	height: 32px;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: -1px;
+}
+
+#widgetu215.fld-err-st
+{
+	margin: 42px -10000px 0px 0px;
+}
+
+#u218-4
+{
+	z-index: 53;
+	width: 273px;
+	min-height: 30px;
+	margin-right: -10000px;
+	padding: 0px 15px 0px 18px;
+}
+
+#widgetu219.fld-err-st #u221-4,#widgetu215.fld-err-st #u218-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	width: 273px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu219_input,#widgetu219_prompt,#widgetu215_input,#widgetu215_prompt
+{
+	width: 273px;
+	min-height: 30px;
+	padding: 0px 15px 0px 18px;
+}
+
+#widgetu219.fld-err-st #widgetu219_input,#widgetu219.fld-err-st #widgetu219_prompt,#widgetu215.fld-err-st #widgetu215_input,#widgetu215.fld-err-st #widgetu215_prompt
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+#u214-4
+{
+	z-index: 57;
+	width: 267px;
+	min-height: 21px;
+	padding-top: 4px;
+	margin-right: -10000px;
+	margin-top: 120px;
+	left: 1px;
+}
+
+#u213-4
+{
+	z-index: 61;
+	width: 267px;
+	min-height: 21px;
+	padding-top: 4px;
+	margin-right: -10000px;
+	margin-top: 120px;
+	left: 1px;
+}
+
+#u208-4
+{
+	z-index: 65;
+	width: 267px;
+	min-height: 21px;
+	padding-top: 4px;
+	margin-right: -10000px;
+	margin-top: 120px;
+	left: 1px;
+}
+
+#widgetu207.frm-sub-st #u214-4,#widgetu207.frm-subm-err-st #u213-4,#widgetu207.frm-subm-ok-st #u208-4
+{
+	min-height: 25px;
+}
+
+#u223-17
+{
+	z-index: 69;
+	min-height: 32px;
+	width: 101px;
+	margin-right: -10000px;
+	margin-top: 87px;
+	left: 205px;
+}
+
+#u1896
+{
+	z-index: 133;
+	width: 487px;
+	margin-right: -10000px;
+	margin-top: 272px;
+	left: 336px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
